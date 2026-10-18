@@ -22,4 +22,4 @@ ghcr.io/onlychathq/sandbox-base
 
 ## 许可
 
-AGPL-3.0-only，与 only-chat 相同。
+MIT。
